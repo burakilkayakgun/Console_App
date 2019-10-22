@@ -8,7 +8,8 @@ using System.Data.Entity;
 namespace ConsoleApp1.Models
 {
     public class animal
-    {
+    { 
+        
         public int id { get; set; }
         public string full_name { get; set; }
         public int age { get; set; }
