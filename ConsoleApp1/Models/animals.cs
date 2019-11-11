@@ -10,7 +10,6 @@ namespace ConsoleApp1.Models
     public class animal
     { 
         // models
-        //trial
         public int id { get; set; }
         public string full_name { get; set; }
         public int age { get; set; }
